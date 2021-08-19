@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**nabil1440/nabil1440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### What am I doing these days? 
+I usually work on web apps. I also write C++ on a daily basis for university. Currently I'm working on expanding my skills to Machine Learning and WebRTC. 
 
-Here are some ideas to get you started:
+#### My usual tech stack: 
+- Node JS 
+- Express JS 
+- PostgreSQL 
+- React 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Other tools I use 
+- Mongo DB 
+- Firebase 
+- Postman 
+- Next JS 
+- Redux 
+- Context 
+
+#### You can follow me on:
+- [Twitter](https://twitter.com/_nabil1440) 
+- [Facebook](https://www.facebook.com/nabil.altamash.1/)
+
+### [My website](https://codesphear.com) 
