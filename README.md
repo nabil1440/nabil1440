@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 #### What am I doing these days? 
-I usually work on web apps. I also write C++ on a daily basis for university. Currently I'm working on expanding my skills to Machine Learning and WebRTC. 
+I usually work on web apps. I'm having to write Java this semester. Also, currently I'm working on expanding my skills to Machine Learning and WebRTC. 
 
 ### My current tech stack: 
 #### Node JS, Express JS, PostgreSQL, React 
 
 ### Other tools I use: 
-#### Mongo DB, Firebase, Postman, Next JS, Redux, Context 
+#### Mongo DB, Firebase, Postman, Next JS, Redux, Context, Strapi 
 
 ### [My website](https://codesphear.com) 
 
