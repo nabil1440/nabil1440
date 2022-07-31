@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### What am I doing these days? 
-Next JS and React Native projects. 
+Next JS and React Native projects, using AWS to host the the back ends with EC2. 
 
 ### My current tech stack: 
 #### Node JS, Express JS, PostgreSQL, Next JS, React Native. 
