@@ -1,16 +1,15 @@
 ### Hi there 👋
 
 #### What am I doing these days? 
-A lot of full stack. Also eyeing for PWA and WASM for now. 
+Next JS and React Native projects. 
 
 ### My current tech stack: 
-#### Node JS, Express JS, PostgreSQL, Next JS
+#### Node JS, Express JS, PostgreSQL, Next JS, React Native. 
 
 ### Other tools I use: 
-#### Mongo DB, Firebase, Postman, React JS, Next JS, Redux, Context, Strapi.
+#### Mongo DB, Firebase, Postman, React JS, Next JS, Redux, Context, Strapi, Node Cron, AWS
 
 ### [My website](https://codesphear.com) 
 
 #### You can follow me on:
-- [Twitter](https://twitter.com/_nabil1440) 
 - [Facebook](https://www.facebook.com/nabil.altamash.1/) 
