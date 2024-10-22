@@ -4,4 +4,4 @@
 Building highly scalable applications with .NET and C#. 
 
 ### My current tech stack: 
-#### .NET, C#, RabbitMQ, gRPC. 
+#### .NET Core with C#, Next JS with TS, React with TS. 
